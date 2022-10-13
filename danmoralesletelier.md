@@ -1,4 +1,4 @@
-# Hola, Yo soy <Daniel Morales Letelier>  👋👨‍💻👩‍💻
+# Hola, Yo soy >Daniel Morales Letelier>  👋👨‍💻👩‍💻
 
 *Empresa: Tecnova*
 *Rol: Arquitecto*
